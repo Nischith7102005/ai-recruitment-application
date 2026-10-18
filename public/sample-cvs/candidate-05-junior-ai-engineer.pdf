@@ -1,0 +1,70 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 1001 >>
+stream
+BT
+/F1 10 Tf
+50 748 Td
+14 TL
+(CANDIDATE 05 | JUNIOR AI ENGINEER) Tj
+T*
+(Mysuru, Karnataka; open to relocate to Bengaluru | Relevant experience: 2 years) Tj
+T*
+(PROFILE) Tj
+T*
+(Early-career developer with project work in Python, NLP and generative AI.) Tj
+T*
+(SKILLS) Tj
+T*
+(Python, LLM APIs, RAG, Chroma, prompt design, REST APIs, Azure, Docker,) Tj
+T*
+(pandas, scikit-learn, Git) Tj
+T*
+(EXPERIENCE) Tj
+T*
+(Software Developer | fictional technology lab | 2024 - present) Tj
+T*
+(Implemented Python data-cleaning scripts and REST endpoints for an NLP tool.) Tj
+T*
+(Built a small RAG demo over public documentation using Chroma and embeddings.) Tj
+T*
+(Tested prompt variations with a 20-question checklist; summarized gaps for mentor.) Tj
+T*
+(Used Azure app services for a classroom demo; no production LLM system ownership.) Tj
+T*
+(PROJECT) Tj
+T*
+(Created a retrieval chatbot with source links as a capstone project.) Tj
+T*
+(EDUCATION) Tj
+T*
+(B.Tech. Computer Science | fictional institute | 2024) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000344 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1397
+%%EOF
