@@ -1,0 +1,72 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 1082 >>
+stream
+BT
+/F1 10 Tf
+50 748 Td
+14 TL
+(CANDIDATE 03 | MACHINE LEARNING ENGINEER) Tj
+T*
+(Hyderabad, Telangana; open to Bengaluru | Relevant experience: 5.5 years) Tj
+T*
+(PROFILE) Tj
+T*
+(ML engineer with strong applied NLP and cloud delivery experience.) Tj
+T*
+(SKILLS) Tj
+T*
+(Python, PyTorch, LLMs, RAG, embeddings, FAISS, Azure, FastAPI, Docker,) Tj
+T*
+(model evaluation, SQL, MLflow, monitoring) Tj
+T*
+(EXPERIENCE) Tj
+T*
+(Machine Learning Engineer | fictional analytics company | 2020 - present) Tj
+T*
+(Built text classification and semantic retrieval services for enterprise users.) Tj
+T*
+(Prototyped RAG over technical manuals using Azure embeddings and FAISS.) Tj
+T*
+(Shipped a Python/FastAPI inference service; added Docker and MLflow tracking.) Tj
+T*
+(Measured precision, recall and response time on a held-out benchmark.) Tj
+T*
+(Set up model monitoring and retraining alerts for a document pipeline.) Tj
+T*
+(PROJECT) Tj
+T*
+(Developed a grounded answer demo with references; pilot adoption was 140 users.) Tj
+T*
+(EDUCATION) Tj
+T*
+(M.Sc. Data Science | fictional institute | 2020) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000344 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1478
+%%EOF
